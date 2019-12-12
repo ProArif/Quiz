@@ -1,9 +1,8 @@
 package com.cricket.quiz.activity;
 
-import android.media.Image;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.CardView;
+import androidx.cardview.widget.CardView;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
@@ -11,13 +10,10 @@ import android.widget.TextView;
 
 import com.cricket.quiz.R;
 import com.cricket.quiz.fragment.FragmentPlay;
-import com.cricket.quiz.model.QuizLevel;
 import com.cricket.quiz.model.Review;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class ReviewActivity extends AppCompatActivity {
 
