@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276827606579",
+    "project_id": "cricket-quiz-93553299"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276827606579:android:33e0945ae090979b",
+        "android_client_info": {
+          "package_name": "com.cricket.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276827606579-sjh7jo47v1kdp142v3c11uvs3fjlhahh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "276827606579-4j43g8qj3vs19duikarb0fm3pjt5bnit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cricket.quiz",
+            "certificate_hash": "7227d61ad460733a32846815ad41487d22c7a33b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQs1u2rMiGm-CqModxQWLh74US7na3Ae8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
